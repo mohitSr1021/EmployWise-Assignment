@@ -92,9 +92,6 @@ Deployed on: [[Vercel Link](https://employ-wise-assignment-azure.vercel.app/auth
 - Enhance error handling
 - Add unit and integration tests -->
 
-## License
-This project is open-source and available under the MIT License.
-
 ## Contact
 [Mohit Singh Rawat]
 [mohit.sr.lvp1021@gmail.com]
