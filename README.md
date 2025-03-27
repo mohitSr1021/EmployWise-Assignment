@@ -27,7 +27,7 @@ This is a React-based user management application that integrates with the Reqre
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/employwise-user-management.git
-cd frontend
+cd EmployWise-Assignment
 ```
 
 ### 2. Install Dependencies
