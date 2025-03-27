@@ -1,4 +1,4 @@
-# EmployWise User Management App Assignment - Frontend
+# User Management App Assignment - Frontend
 
 ## Project Overview
 This is a React-based user management application that integrates with the Reqres API to provide authentication, user listing, editing, and deletion functionalities.
